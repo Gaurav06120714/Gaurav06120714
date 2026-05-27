@@ -24,15 +24,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav06120714&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" height="160" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Gaurav06120714&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Streak" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav06120714&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="140" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurav06120714&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav06120714&theme=tokyonight" height="160" alt="Top Languages" />
 </div>
-
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaurav06120714&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav06120714&theme=tokyonight" height="160" alt="Most Used Language" />
+</div>
 
 ## 🛠️ Tech Stack
 
