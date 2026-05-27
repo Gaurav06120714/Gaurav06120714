@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   snake:
-    runs-on: ubuntu-latestx
+    runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
