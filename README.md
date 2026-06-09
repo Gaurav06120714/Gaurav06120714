@@ -17,7 +17,7 @@
 - 🚀 Building the **Vyro Ecosystem** — a suite of AI-powered apps spanning browser, coding, music, notes & portfolio tools
 - 🍎 Crafting native **macOS tools with Swift** — SwiftUI dashboards, menu bar utilities and performance monitors
 - 🤖 Exploring **AI / ML** in real-world projects — Sign Language Recognition, Job Recommendation, Computer Vision with OpenCV
-- 📊 B.Tech CSE (Data Science) @ SRIST | Strong in **DSA, Backend APIs & Data Analysis**
+- 📊 B.Tech CSE (Data Science) @ SNIST | Strong in **DSA, Backend APIs & Data Analysis**
 - 🎨 Design-focused engineer — obsessed with clean UIs, dark themes, and fast systems that feel as good as they work
 
 ---
