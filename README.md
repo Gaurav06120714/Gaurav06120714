@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Gaurav06120714?style=flat&color=7c6df0&labelColor=1a1a24&label=Followers)](https://github.com/Gaurav06120714?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Gaurav06120714?style=flat&color=7c6df0&labelColor=1a1a24&label=Total%20Stars)](https://github.com/Gaurav06120714)
 [![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Gaurav06120714.Gaurav06120714&left_color=7c6df0&right_color=1a1a24&left_text=Profile%20Views)](https://github.com/Gaurav06120714)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c6df0?style=flat&color=7c6df0&labelColor=1a1a24&label=Portfolio&logo=vercel&logoColor=white)](https://portfolio-five-roan-39.vercel.app/)
 
 </div>
 
