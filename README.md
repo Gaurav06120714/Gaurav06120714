@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C6DF0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gaurav+Ganesh+Teegulla+%F0%9F%91%8B;Full+Stack+%2B+Data+Science+Engineer;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+FastAPI;Building+the+Vyro+Ecosystem+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gaurav+Ganesh+Teegulla+%F0%9F%91%8B;Full+Stack+%2B+Data+Science+Engineer;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+FastAPI;Building+the+Vyro+Ecosystem+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Gaurav06120714?style=flat&color=7c6df0&labelColor=1a1a24&label=Followers)](https://github.com/Gaurav06120714?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Gaurav06120714?style=flat&color=7c6df0&labelColor=1a1a24&label=Total%20Stars)](https://github.com/Gaurav06120714)
-[![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Gaurav06120714.Gaurav06120714&left_color=7c6df0&right_color=1a1a24&left_text=Profile%20Views)](https://github.com/Gaurav06120714)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c6df0?style=flat&color=7c6df0&labelColor=1a1a24&label=Portfolio&logo=vercel&logoColor=white)](https://portfolio-five-roan-39.vercel.app/)
+[![GitHub followers](https://img.shields.io/github/followers/Gaurav06120714?style=flat&color=2dd4bf&labelColor=0d1117&label=Followers)](https://github.com/Gaurav06120714?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Gaurav06120714?style=flat&color=2dd4bf&labelColor=0d1117&label=Total%20Stars)](https://github.com/Gaurav06120714)
+[![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Gaurav06120714.Gaurav06120714&left_color=0d1117&right_color=2dd4bf&left_text=Profile%20Views)](https://github.com/Gaurav06120714)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2dd4bf?style=flat&color=2dd4bf&labelColor=0d1117&label=Portfolio&logo=vercel&logoColor=white)](https://portfolio-five-roan-39.vercel.app/)
 
 </div>
 
@@ -26,9 +26,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gaurav06120714&theme=tokyonight&hide_border=true" height="130" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurav06120714&theme=tokyonight" height="130" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav06120714&theme=tokyonight" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav06120714&show_icons=true&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Gaurav06120714&hide_border=true&background=0d1117&stroke=2dd4bf&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav06120714&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav06120714&theme=github_dark" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav06120714&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -37,22 +45,22 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-7c6df0?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7c6df0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7c6df0?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7c6df0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-7c6df0?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-7c6df0?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7c6df0?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-7c6df0?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7c6df0?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c6df0?style=for-the-badge&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-7c6df0?style=for-the-badge&logo=socketdotio&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-7c6df0?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-7c6df0?style=for-the-badge&logo=electron&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-7c6df0?style=for-the-badge&logo=swift&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-7c6df0?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7c6df0?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2dd4bf?style=for-the-badge&logo=typescript&logoColor=0d1117)
+![Python](https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logo=python&logoColor=0d1117)
+![Java](https://img.shields.io/badge/Java-2dd4bf?style=for-the-badge&logo=openjdk&logoColor=0d1117)
+![C++](https://img.shields.io/badge/C++-2dd4bf?style=for-the-badge&logo=cplusplus&logoColor=0d1117)
+![React](https://img.shields.io/badge/React-2dd4bf?style=for-the-badge&logo=react&logoColor=0d1117)
+![React Native](https://img.shields.io/badge/React_Native-2dd4bf?style=for-the-badge&logo=react&logoColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-2dd4bf?style=for-the-badge&logo=fastapi&logoColor=0d1117)
+![Flask](https://img.shields.io/badge/Flask-2dd4bf?style=for-the-badge&logo=flask&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-2dd4bf?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2dd4bf?style=for-the-badge&logo=postgresql&logoColor=0d1117)
+![Socket.io](https://img.shields.io/badge/Socket.io-2dd4bf?style=for-the-badge&logo=socketdotio&logoColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-2dd4bf?style=for-the-badge&logo=tailwindcss&logoColor=0d1117)
+![Electron](https://img.shields.io/badge/Electron-2dd4bf?style=for-the-badge&logo=electron&logoColor=0d1117)
+![Swift](https://img.shields.io/badge/Swift-2dd4bf?style=for-the-badge&logo=swift&logoColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-2dd4bf?style=for-the-badge&logo=opencv&logoColor=0d1117)
+![Git](https://img.shields.io/badge/Git-2dd4bf?style=for-the-badge&logo=git&logoColor=0d1117)
 
 </div>
 
